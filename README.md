@@ -1,5 +1,7 @@
 # Angular ASP.NET Core Seed Project
 
+AUTHOR: MD MAHFUZUR RAHMAN SIAM I work as a Computer Engineer, Web Designer & Developer, App Developer, Digital marketer, Researcher, Content creator at Facebook, Youtube, Rumble, Instagram & Tiktok. Email: ksiam3409@gmail.com Website: https://siammahfuz.github.io/ 
+
 This project provides a "seed" for getting started using 
 ASP.NET Core and Angular together in one project. The project
 has the following goals:
